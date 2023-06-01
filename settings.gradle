@@ -1,3 +1,0 @@
-include ':FreePlugin'
-include ':app'
-rootProject.name = "PluginDemo"
